@@ -1,0 +1,10 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="716" y="66" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="683" y="318" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="396" y="181" />
+    <location key="SettingsEditor.0.0.1366.768" x="190" y="18" />
+    <location key="AndroidThemeDialog.0.0.1366.768" x="267" y="67" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="367" y="117" />
+  </component>
+</application>
